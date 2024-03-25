@@ -18,5 +18,5 @@ app.use('/ubicaciones', ubicacionesRouter);
 /***** Poner al servidor en escucha *****/
 app.listen(port, () => {
     console.log("Server escuchando en puerto ", port);
-    console.log("http://localost:", port);
+    console.log("http://localhost:"+port);
 });

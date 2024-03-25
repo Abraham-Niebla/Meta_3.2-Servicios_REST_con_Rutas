@@ -12,15 +12,15 @@ const bdActivos = [
 
     {   id: 3, noSerie: 2547, noInv: 7452, tipo: "Multímetro",
         desc: "Multímetro portátil marca Fluke",
-        ubicacion: 8, responsable: 1, imagen: "https://picsum.photos/200/200"},
+        ubicacion: 8, responsable: 3, imagen: "https://picsum.photos/200/200"},
 
     {   id: 4, noSerie: 3658, noInv: 8523, tipo: "Fuente de poder DC",
         desc: "Fuente doble de poder de corriente directa regulable marca GWINSTEK",
-        ubicacion: 8, responsable: 1, imagen: "https://picsum.photos/200/200"},
+        ubicacion: 8, responsable: 3, imagen: "https://picsum.photos/200/200"},
         
     {   id: 5, noSerie: 1458, noInv: 3692, tipo: "Osciloscopio",
         desc: "Osciloscopio marca Tektronix",
-        ubicacion: 8, responsable: 1, imagen: "https://picsum.photos/200/200"}
+        ubicacion: 8, responsable: 2, imagen: "https://picsum.photos/200/200"}
     ];
 
 //Modelo de un activo
